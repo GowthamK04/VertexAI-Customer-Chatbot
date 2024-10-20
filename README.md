@@ -60,5 +60,5 @@ This repository provides a Jupyter Notebook (`vertexai_chatbot.ipynb`) that illu
 4. **Test the Chatbot**:
     Follow along with the notebook to explore the chat model demo. The notebook allows you to interact with the chatbot by providing sample customer complaints or queries. The chatbot will generate responses based on the input and defined parameters.
 
-## Enjoy experimenting with the Vertex AI Customer Chatbot! If you have any questions or suggestions, feel free to open an issue or contribute to the project. Happy coding! 😊🚀
+### Enjoy experimenting with the Vertex AI Customer Chatbot! If you have any questions or suggestions, feel free to open an issue or contribute to the project. Happy coding! 😊🚀
 
